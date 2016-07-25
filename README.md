@@ -1,2 +1,0 @@
-# zlog_monitor
-test
